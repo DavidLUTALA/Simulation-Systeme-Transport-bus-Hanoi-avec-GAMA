@@ -63,7 +63,7 @@ L'objectif principal est d'analyser et de simuler les flux de transport dans une
 ### **2. Installation**
 1. Clonez ce dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/systeme-transport-bus.git
+   git clone https://github.com/DavidLUTALA/Simulation-Systeme-Transport-bus-Hanoi-avec-GAMA.git
    ```
 2. Ouvrez GAMA Platform et exportez le projet `Systeme-Transport-bus-Hanoi-avec-GAMA`.
 
