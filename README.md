@@ -3,7 +3,7 @@
 ## 🌟 **Présentation**
 Ce projet modélise un réseau de transport urbain à hanoi (Vietnam) en utilisant des agents pour représenter les bus, les arrêts, les terminus et d'autres composants du système. Il inclut également des graphes pour simuler les itinéraires des bus et leur interaction avec les infrastructures routières.
 
-![Alt text](Images/Image1.png)
+https://github.com/user-attachments/assets/35826d7c-dbd7-433f-a75c-844130770162
 
 ---
 
@@ -21,6 +21,8 @@ L'objectif principal est d'analyser et de simuler les flux de transport dans une
   - Association dynamique des arrêts et des résidences aux quartiers proches des passagers.  
 - **Visualisation dynamique** : Représentation graphique en temps réel des déplacements des bus et des changements d'état.  
 - **Gestion des états des bus** : Chaque bus suit un cycle logique entre les stations, le transit et l'attente.
+
+![Alt text](Images/Image1.png)
 
 ---
 
