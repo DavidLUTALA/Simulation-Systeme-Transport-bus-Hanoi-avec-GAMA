@@ -4,6 +4,10 @@
 Ce projet modélise un réseau de transport urbain à hanoi (Vietnam) en utilisant des agents pour représenter les bus, les arrêts, les terminus et d'autres composants du système. Il inclut également des graphes pour simuler les itinéraires des bus et leur interaction avec les infrastructures routières.
 
 
+https://github.com/user-attachments/assets/e8d4aa93-b85d-45f0-a59a-40c9fb51f934
+
+
+
 https://github.com/user-attachments/assets/35826d7c-dbd7-433f-a75c-844130770162
 
 ---
