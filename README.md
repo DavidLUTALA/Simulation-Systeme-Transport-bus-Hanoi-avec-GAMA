@@ -82,7 +82,7 @@ L'objectif principal est d'analyser et de simuler les flux de transport dans une
 ---
 
 ## 📧 **Contact**
-Si vous avez des questions ou suggestions, contactez-moi via [davidlutala0@gmail.com].
+Si vous avez des questions ou suggestions, contactez-moi via [davidlutala0@gmail.com](davidlutala0@gmail.com).
 
 ---
 
