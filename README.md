@@ -24,7 +24,7 @@ L'objectif principal est d'analyser et de simuler les flux de transport dans une
 - **Graphe des routes** : Modélisation des routes et itinéraires comme graphes pour une simulation réaliste des déplacements.  
 - **Interactions agents-infrastructure** : 
   - Les bus s'arrêtent aux terminus et aux arrêts en suivant des itinéraires définis.
-  - Les passagers attendent les bus dans les différents arrêts et le bus les transportent aux arrêts déterminés
+  - Les passagers attendent les bus dans les différents arrêts et le bus les transportent aux arrêts déterminés.
   - Association dynamique des arrêts et des résidences aux quartiers proches des passagers.  
 - **Visualisation dynamique** : Représentation graphique en temps réel des déplacements des bus et des changements d'état.  
 - **Gestion des états des bus** : Chaque bus suit un cycle logique entre les stations, le transit et l'attente.
